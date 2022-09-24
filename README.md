@@ -10,4 +10,4 @@ Instructions -
 Additional information -  
 Language - C++  
 API - WinSock API  
-IDE - Visual Studio  
+IDE - Visual Studio 2022  
