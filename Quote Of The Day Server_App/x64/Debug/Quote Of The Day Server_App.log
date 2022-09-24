@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\WinSock API Programming\Quote Of The Day Server_App\Quote Of The Day Server_App\Main.cpp(16,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Qotd.cpp
+C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\WinSock API Programming\Quote Of The Day Server_App\Quote Of The Day Server_App\Qotd.cpp(35,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TcpListener.cpp
+C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\WinSock API Programming\Quote Of The Day Server_App\Quote Of The Day Server_App\TcpListener.cpp(17,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\WinSock API Programming\Quote Of The Day Server_App\Quote Of The Day Server_App\TcpListener.cpp(67,29): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating Code...
+  Quote Of The Day Server_App.vcxproj -> C:\Users\Meherzad\Desktop\Workings\Programming\Visual Studio C++\WinSock API Programming\Quote Of The Day Server_App\x64\Debug\Quote Of The Day Server_App.exe
